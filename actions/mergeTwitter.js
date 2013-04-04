@@ -23,7 +23,7 @@ var stream = T.stream('statuses/filter', { track: name })
 
 var list = new Array() 
 
-var ll = 12; 
+var ll = 30; 
 
 var bufferRepeat = new Array();
 
