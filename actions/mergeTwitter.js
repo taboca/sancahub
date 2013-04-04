@@ -16,39 +16,6 @@ function initApp(name, appPath) {
 var T = new Twit(config.twit);
 
 //
-//  tweet 'hello world!'
-//
-/*
-T.post('statuses/update', { status: 'hello world!' }, function(err, reply) {
-  //  ...
-});
-*/
-      
-//
-//  search twitter for all tweets containing the word 'banana' since Nov. 11, 2011
-//
-/*
-T.get('search/tweets', { q: 'pti_brasil', since: '2011-11-11' }, function(err, reply) {
-      var max = 0, popular;
-      var tweets = reply.statuses , i = tweets.length;
-      while(i--) {
-        var tweet = tweets[i];
-          console.log( tweet.created_at + ' from ' + tweet.user.name + ' says ' + tweet.text);
-      }
-});
-*/
-//
-//  stream a sample of public statuses
-//
-/*
-var stream = T.stream('statuses/sample')
-
-stream.on('tweet', function (tweet) {
-  console.log(tweet); 
-});
-      
-*/
-//
 //  filter the twitter public stream by the word 'go'. 
 //
 var stream = T.stream('statuses/filter', { track: name })
