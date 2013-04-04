@@ -37,7 +37,7 @@
 
 var app =  {
 	feedURL : URL_TWIT,
-    MAX_ITEMS: 9,
+    MAX_ITEMS: 6,
 	feed    : null, 
 	start : function() {
 
@@ -84,7 +84,7 @@ var app =  {
 		var counter = 0;
 		var self = this;
 		if(this.tweetQueue.length<1) { 
-			setTimeout( function(){self.updateFeed()},3099);
+			setTimeout( function(){self.updateFeed()},1099);
 		} else { 
 			var k = document.createElement('div');
 			k.className="item";
@@ -114,13 +114,13 @@ var app =  {
 				setTimeout(function() { $($("div.item")[0]).remove() } ,2000);
 				setTimeout(function() { $($("div.itemshadow")[0]).remove() } ,2000);
 
-			        $("div.item")[0].setAttribute("style","-moz-transition-property: margin-top;-moz-transition-duration:1s;margin-top:-55px ");
+			        $("div.item")[0].setAttribute("style","-moz-transition-property: margin-top;-moz-transition-duration:1s;margin-top:-120px ");
 
 
 
 				this.total--;
 			} 
-			setTimeout( function () { self.render() }, 3000);
+			setTimeout( function () { self.render() }, 1000);
 		} 
 	},
 

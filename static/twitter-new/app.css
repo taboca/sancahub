@@ -15,26 +15,18 @@
     } 
     div.item { 
 	color:#444;
-	margin-top:20px;
+	margin-top:10px;
 	margin-left:.8em;
-    margin-right:1em;
-	height:55px;
+    margin-right:.2em;
+	height:120px;
     overflow: hidden;
     text-overflow: ellipsis;
     } 
     div h3 { 
-	font-size:24px;
+	font-size:34px;
 	font-weight:bold;
 	color:black;
 	margin:0;
-	margin-bottom:10px;
-    } 
-    div.desc { 
-	font-size:15pt ! important;
-	margin-bottom:5px;
-	color:#000 ! important;
-	overflow:hidden;
-	text-overflow:ellipsis; 
-	height:0px;
+	margin-bottom:8px;
     } 
 
