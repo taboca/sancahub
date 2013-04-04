@@ -1,16 +1,16 @@
 
 var app =  {
-        feed        : null,
-        feedURL     : URL_GALERIA,
+    feed        : null,
+    feedURL     : URL_GALERIA,
 	refElement   : null, 
 	imageNumber  : 0,
 	element      : null,
-        picWidth     : 400,
-        picHeight    : 290,
-        picQueue     : null, 
-        totalElements: 6, 
+    picWidth     : 400,
+    picHeight    : 290,
+    picQueue     : null, 
+    totalElements: 6, 
 	refContainers: null, 
-        refContainerCycle : -1, 
+    refContainerCycle : -1, 
 		
 	start: function () { 
 
@@ -85,23 +85,21 @@ var app =  {
 		} 
 		currImage.className='active';
 		this.imageNumber++;
-                this.kickFadeIn();
+        this.kickFadeIn();
 	},
 
-
 	cycle: 0,
-
 	kickFadeIn : function () { 
 		this.cycle++;	
 		if(this.cycle<=this.totalElements) { 
 			var scopedThis = this;
-        	       	setTimeout( function () { scopedThis.popPic() }, 1000);
+            setTimeout( function () { scopedThis.popPic() }, 1000);
 		}  
 	},
 
 	__feedUpdated : function(result) {
 		var self  = this;
-		if(result.error) { }; 
+		if(result.error) {alert(1) }; 
      		$(result.xmlDocument).find('entry').each(function(){ 
 			var title = $(this).find('title').text();
 			var docDate=new Date();
