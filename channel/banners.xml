@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://172.25.59.21/?q=flyers" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>flyers</title>
+    <link>http://172.25.59.21/?q=flyers</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>27/02/2013</title>
+    <link>http://172.25.59.21/?q=node/150</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;midia&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flyerimage field-type-image field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;flyerimage:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.25.59.21/sites/default/files/0_flyer_2_0.jpg&quot; width=&quot;814&quot; height=&quot;420&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 28 Mar 2013 22:19:27 +0000</pubDate>
+ <dc:creator>marcio</dc:creator>
+ <guid isPermaLink="false">150 at http://172.25.59.21</guid>
+  </item>
+  <item>
+    <title>06/04/2013</title>
+    <link>http://172.25.59.21/?q=node/149</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;midia&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flyerimage field-type-image field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;flyerimage:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.25.59.21/sites/default/files/0_flyer_2.jpg&quot; width=&quot;814&quot; height=&quot;420&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 28 Mar 2013 20:00:34 +0000</pubDate>
+ <dc:creator>marcio</dc:creator>
+ <guid isPermaLink="false">149 at http://172.25.59.21</guid>
+  </item>
+  <item>
+    <title>28/03/2013</title>
+    <link>http://172.25.59.21/?q=node/148</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;midia&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flyerimage field-type-image field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;flyerimage:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.25.59.21/sites/default/files/0_flyer1.jpg&quot; width=&quot;840&quot; height=&quot;420&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 28 Mar 2013 19:59:36 +0000</pubDate>
+ <dc:creator>marcio</dc:creator>
+ <guid isPermaLink="false">148 at http://172.25.59.21</guid>
+  </item>
+  </channel>
+</rss>
