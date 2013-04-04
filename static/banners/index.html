@@ -1,0 +1,50 @@
+<html>
+<header>
+<script src="../vendor/jquery-min.js"></script>
+<script src="../lib/tagvisor.js"></script>
+    <script>
+        function start() { 
+              if(document.location.toString().indexOf("mode")>-1) { 
+                      var param = document.location.toString().split("mode=");
+                      if(param[1]=="tv") {
+                          tv.add($('#animation li'));
+                          tv.tickMode = true;
+                          tv.play();
+                      } 
+              }
+              setTimeout('start()',80000);
+        }
+
+</script>
+<style> div{ width:320px;height:240px;padding-top:50px;text-align:center}
+
+    body { background-color:white } 
+</style>
+
+</header>
+	
+<body onload='start()'>
+   					
+        <div id='slide1'><img src="index_files/editado.png" height="120" width="230"></div><div id='slide2'><img src="index_files/cheguela.png" alt="Chegue.Lá" height="120" width="230"></div><div id='slide3' ><img src="index_files/livfeedr.png" alt="Livfeedr" height="120" width="230"></div><div id='slide4'><img src="index_files/platso.png" height="120" width="230"></div><div id='slide5'>
+            <img src="index_files/linkinsports.png" height="120" width="230"></div><div id='slide6'><img src="index_files/hichina.png" height="120" width="230"></div><div id='slide7'>
+            <img src="index_files/dicionarioinformal.png" height="120" width="230"></div><div id='slide8'><img src="index_files/telasocial.png" height="120" width="230"></div><div id='slide9'><img src="index_files/ipostal.png" height="120" width="230"></div><div id='slide10'><img src="index_files/runweb.png" height="120" width="230"></div><div id='slide11'><img src="index_files/appdeck.png" height="120" width="230"></div><div id='slide12'><img src="index_files/enviala.png" alt="Envia Lá" height="120" width="230"></div><div id='slide13'><img src="index_files/tokenlab.png" height="120" width="230"></div><div id='slide14'><img src="index_files/proinov.png" height="120" width="230"></div></ul>
+
+
+    <ul id="animation" style="display: none;">
+          <li data-target="slide1" data-time="1s" data-effect="scalefit" data-duration="3s"></li>
+            <li data-target="slide2" data-time="6s" data-effect="scalefit" data-duration="3s"></li>
+              <li data-target="slide3" data-time="12s" data-effect="scalefit" data-duration="3s"></li>
+                <li data-target="slide4" data-time="18s" data-effect="scalefit" data-duration="3s"></li>
+                <li data-target="slide5" data-time="24s" data-effect="scalefit" data-duration="3s"></li>
+                <li data-target="slide6" data-time="30s" data-effect="scalefit" data-duration="3s"></li>
+                <li data-target="slide7" data-time="36s" data-effect="scalefit" data-duration="3s"></li>
+                <li data-target="slide8" data-time="42s" data-effect="scalefit" data-duration="3s"></li>
+                <li data-target="slide9" data-time="48s" data-effect="scalefit" data-duration="3s"></li>
+                <li data-target="slide10" data-time="54s" data-effect="scalefit" data-duration="3s"></li>
+                <li data-target="slide11" data-time="60s" data-effect="scalefit" data-duration="3s"></li>
+                <li data-target="slide12 data-time="66s" data-effect="scalefit" data-duration="3s"></li>
+                <li data-target="slide13" data-time="72s" data-effect="scalefit" data-duration="3s"></li>
+                <li data-target="slide14" data-time="78s" data-effect="scalefit" data-duration="3s"></li>
+              </ul>
+
+</body></html>

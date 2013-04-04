@@ -15,7 +15,7 @@ html, body { margin:0; padding:0; color:white; overflow:hidden }
 */
 body { 
   width:1920px; height:1080px;
-  background: #444 url(http://sancahub.com.br/images/sancahub-gettingreal.png) 600px 00px no-repeat;
+  background: #444 url(http://sancahub.com.br/images/sancahub-gettingreal.png) 00px 00px no-repeat;
   background-size:900px;
 
 } 

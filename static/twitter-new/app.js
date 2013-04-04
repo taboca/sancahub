@@ -37,7 +37,7 @@
 
 var app =  {
 	feedURL : URL_TWIT,
-    MAX_ITEMS: 3,
+    MAX_ITEMS: 9,
 	feed    : null, 
 	start : function() {
 
@@ -84,7 +84,7 @@ var app =  {
 		var counter = 0;
 		var self = this;
 		if(this.tweetQueue.length<1) { 
-			setTimeout( function(){self.updateFeed()},19999);
+			setTimeout( function(){self.updateFeed()},1099);
 		} else { 
 			var k = document.createElement('div');
 			k.className="item";
@@ -120,7 +120,7 @@ var app =  {
 
 				this.total--;
 			} 
-			setTimeout( function () { self.render() }, 19999);
+			setTimeout( function () { self.render() }, 1000);
 		} 
 	},
 

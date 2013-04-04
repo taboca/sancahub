@@ -99,8 +99,9 @@ var app =  {
 
 	__feedUpdated : function(result) {
 		var self  = this;
-		if(result.error) {alert(1) }; 
-     		$(result.xmlDocument).find('entry').each(function(){ 
+		if(result.error) { }; 
+     		$(result.xmlDocument).find('entry').each(function(){
+
 			var title = $(this).find('title').text();
 			var docDate=new Date();
 			var docDateString = title.split("/");
