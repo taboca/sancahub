@@ -1,9 +1,9 @@
-@import url("http://fonts.googleapis.com/css?family=Homemade+Apple");
+@import url("http://fonts.googleapis.com/css?family=Roboto");
 
 html, body { margin:0; padding:0; color:white; overflow:hidden } 
 
 * { 
-    font-family: Arial;
+    font-family: Roboto;
 } 
 
 /*
