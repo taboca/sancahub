@@ -73,7 +73,7 @@ var app =  {
     flip: function () { 
 
              if(this.flipflop) { 
-                 this.flipflop=false; return 'color:black';
+                 this.flipflop=false; return 'color:white';
              } 
              else { 
                  this.flipflop=true; return 'color:gray';

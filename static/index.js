@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
 register("/main/qqqqqqqqqqqqqqqq", "0.698045977995738", "./header/index.html", iframeTemplate);
-register("/main/wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww", "destaques", "./galeria/index.html", iframeTemplate);
+//register("/main/wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww", "destaques", "./galeria/index.html", iframeTemplate);
 register("/main/ttttttttttttttt", "0.8841019960292364", "./banners/index.html?mode=tv", iframeTemplate);
 register("/main/yyyyyyyyy", "0.8448067060305994", "./weather/index.html", iframeTemplate);
 register("/main/uuuuuuuuuuuuuuuu", "0.13553831341819889", "./twitter-new/index.html", iframeTemplate);
