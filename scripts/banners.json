@@ -5,7 +5,7 @@
  "about":"start",
  "function":"saveRSS",
  "expiretimer":10000, 
- "data":{"value":"http://172.25.59.21/?q=flyers.xml","about":"banners"}, "to":"next"
+ "data":{"value":"ttp://api.flickr.com/services/feeds/photos_public.gne?id=98393462@N00&tags=jet4learning&lang=en-us&format=","about":"banners"}, "to":"next"
 }, 
 {
  "about":"next",

@@ -1,35 +1,133 @@
-<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://172.25.59.21/?q=flyers" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-  <channel>
-    <title>flyers</title>
-    <link>http://172.25.59.21/?q=flyers</link>
-    <description></description>
-    <language>en</language>
-          <item>
-    <title>27/02/2013</title>
-    <link>http://172.25.59.21/?q=node/150</link>
-    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;midia&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flyerimage field-type-image field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;flyerimage:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.25.59.21/sites/default/files/0_flyer_2_0.jpg&quot; width=&quot;814&quot; height=&quot;420&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Thu, 28 Mar 2013 22:19:27 +0000</pubDate>
- <dc:creator>marcio</dc:creator>
- <guid isPermaLink="false">150 at http://172.25.59.21</guid>
-  </item>
-  <item>
-    <title>06/04/2013</title>
-    <link>http://172.25.59.21/?q=node/149</link>
-    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;midia&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flyerimage field-type-image field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;flyerimage:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.25.59.21/sites/default/files/0_flyer_2.jpg&quot; width=&quot;814&quot; height=&quot;420&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Thu, 28 Mar 2013 20:00:34 +0000</pubDate>
- <dc:creator>marcio</dc:creator>
- <guid isPermaLink="false">149 at http://172.25.59.21</guid>
-  </item>
-  <item>
-    <title>28/03/2013</title>
-    <link>http://172.25.59.21/?q=node/148</link>
-    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;midia&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flyerimage field-type-image field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;flyerimage:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://172.25.59.21/sites/default/files/0_flyer1.jpg&quot; width=&quot;840&quot; height=&quot;420&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Thu, 28 Mar 2013 19:59:36 +0000</pubDate>
- <dc:creator>marcio</dc:creator>
- <guid isPermaLink="false">148 at http://172.25.59.21</guid>
-  </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:flickr="urn:flickr:user"
+      xmlns:media="http://search.yahoo.com/mrss/">
+
+  <title>Uploads from tabocaflik, tagged jet4learning</title>
+  <link rel="self" href="http://api.flickr.com/services/feeds/photos_public.gne?id=98393462@N00&amp;tags=jet4learning&amp;lang=en-us&amp;format=" />
+  <link rel="alternate" type="text/html" href="http://www.flickr.com/photos/98393462@N00/tags/jet4learning/"/>
+  <id>tag:flickr.com,2005:/photos/public/1716082/tagged/all/jet4learning</id>
+  <icon>http://l.yimg.com/g/images/buddyicon.gif#98393462@N00</icon>
+  <subtitle></subtitle>
+  <updated>2010-03-13T20:28:26Z</updated>
+  <generator uri="http://www.flickr.com/">Flickr</generator>
+
+<entry>
+    <title>ExpressionWidgets annotates</title>
+    <link rel="alternate" type="text/html" href="http://www.flickr.com/photos/98393462@N00/4429513415/"/>
+    <id>tag:flickr.com,2005:/photo/4429513415</id>
+    <published>2010-03-13T20:28:26Z</published>
+    <updated>2010-03-13T20:28:26Z</updated>
+    <flickr:date_taken>2010-09-03T18:41:29-08:00</flickr:date_taken>
+    <dc:date.Taken>2010-09-03T18:41:29-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/people/98393462@N00/&quot;&gt;tabocaflik&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/98393462@N00/4429513415/&quot; title=&quot;ExpressionWidgets annotates&quot;&gt;&lt;img src=&quot;http://farm5.staticflickr.com/4034/4429513415_504bd8c7c9_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;ExpressionWidgets annotates&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;View from the participant, a student, annotating live a talk at SxSw - Universities in the Free Era. This was a testing analysis session and also the subject of the talk itself applies to #jet4learning&lt;/p&gt;</content>
+    <author>
+      <name>tabocaflik</name>
+      <uri>http://www.flickr.com/people/98393462@N00/</uri>
+      <flickr:nsid>98393462@N00</flickr:nsid>
+      <flickr:buddyicon>http://l.yimg.com/g/images/buddyicon.gif#98393462@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="http://farm5.staticflickr.com/4034/4429513415_504bd8c7c9_b.jpg" />
+    <category term="jet4learning" scheme="http://www.flickr.com/photos/tags/" />
+    <category term="expressionwidgets" scheme="http://www.flickr.com/photos/tags/" />
+</entry>
+
+<entry>
+    <title>Jetpack4Leaning Updates</title>
+    <link rel="alternate" type="text/html" href="http://www.flickr.com/photos/98393462@N00/4423454766/"/>
+    <id>tag:flickr.com,2005:/photo/4423454766</id>
+    <published>2010-03-10T21:31:03Z</published>
+    <updated>2010-03-10T21:31:03Z</updated>
+    <flickr:date_taken>2010-03-10T17:41:35-08:00</flickr:date_taken>
+    <dc:date.Taken>2010-03-10T17:41:35-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/people/98393462@N00/&quot;&gt;tabocaflik&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/98393462@N00/4423454766/&quot; title=&quot;Jetpack4Leaning Updates&quot;&gt;&lt;img src=&quot;http://farm5.staticflickr.com/4064/4423454766_11a54b7966_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Jetpack4Leaning Updates&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>tabocaflik</name>
+      <uri>http://www.flickr.com/people/98393462@N00/</uri>
+      <flickr:nsid>98393462@N00</flickr:nsid>
+      <flickr:buddyicon>http://l.yimg.com/g/images/buddyicon.gif#98393462@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="http://farm5.staticflickr.com/4064/4423454766_11a54b7966_b.jpg" />
+    <category term="jet4learning" scheme="http://www.flickr.com/photos/tags/" />
+</entry>
+
+<entry>
+    <title>Jetpack4Leaning Updates</title>
+    <link rel="alternate" type="text/html" href="http://www.flickr.com/photos/98393462@N00/4423454998/"/>
+    <id>tag:flickr.com,2005:/photo/4423454998</id>
+    <published>2010-03-10T21:31:10Z</published>
+    <updated>2010-03-10T21:31:10Z</updated>
+    <flickr:date_taken>2010-03-10T14:25:11-08:00</flickr:date_taken>
+    <dc:date.Taken>2010-03-10T14:25:11-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/people/98393462@N00/&quot;&gt;tabocaflik&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/98393462@N00/4423454998/&quot; title=&quot;Jetpack4Leaning Updates&quot;&gt;&lt;img src=&quot;http://farm5.staticflickr.com/4053/4423454998_ffe77a8361_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Jetpack4Leaning Updates&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>tabocaflik</name>
+      <uri>http://www.flickr.com/people/98393462@N00/</uri>
+      <flickr:nsid>98393462@N00</flickr:nsid>
+      <flickr:buddyicon>http://l.yimg.com/g/images/buddyicon.gif#98393462@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="http://farm5.staticflickr.com/4053/4423454998_ffe77a8361_b.jpg" />
+    <category term="jet4learning" scheme="http://www.flickr.com/photos/tags/" />
+</entry>
+
+<entry>
+    <title>ExpressionWidgets Experimentation</title>
+    <link rel="alternate" type="text/html" href="http://www.flickr.com/photos/98393462@N00/4423473166/"/>
+    <id>tag:flickr.com,2005:/photo/4423473166</id>
+    <published>2010-03-10T21:39:40Z</published>
+    <updated>2010-03-10T21:39:40Z</updated>
+    <flickr:date_taken>2010-03-10T18:37:32-08:00</flickr:date_taken>
+    <dc:date.Taken>2010-03-10T18:37:32-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/people/98393462@N00/&quot;&gt;tabocaflik&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/98393462@N00/4423473166/&quot; title=&quot;ExpressionWidgets Experimentation&quot;&gt;&lt;img src=&quot;http://farm3.staticflickr.com/2739/4423473166_6ffbffd8fb_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;ExpressionWidgets Experimentation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jetpack SDK could enable expressionwiddgets Jetpack to bundle and ship a local web server with the client. This would enable eash mash social collaboration.&lt;/p&gt;</content>
+    <author>
+      <name>tabocaflik</name>
+      <uri>http://www.flickr.com/people/98393462@N00/</uri>
+      <flickr:nsid>98393462@N00</flickr:nsid>
+      <flickr:buddyicon>http://l.yimg.com/g/images/buddyicon.gif#98393462@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="http://farm3.staticflickr.com/2739/4423473166_6ffbffd8fb_b.jpg" />
+    <category term="jet4learning" scheme="http://www.flickr.com/photos/tags/" />
+</entry>
+
+<entry>
+    <title>Jetpack4Leaning Updates</title>
+    <link rel="alternate" type="text/html" href="http://www.flickr.com/photos/98393462@N00/4423454894/"/>
+    <id>tag:flickr.com,2005:/photo/4423454894</id>
+    <published>2010-03-10T21:31:06Z</published>
+    <updated>2010-03-10T21:31:06Z</updated>
+    <flickr:date_taken>2010-03-10T18:28:26-08:00</flickr:date_taken>
+    <dc:date.Taken>2010-03-10T18:28:26-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/people/98393462@N00/&quot;&gt;tabocaflik&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/98393462@N00/4423454894/&quot; title=&quot;Jetpack4Leaning Updates&quot;&gt;&lt;img src=&quot;http://farm5.staticflickr.com/4019/4423454894_0d53129d35_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Jetpack4Leaning Updates&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;ExpressionWidgets, which is part of J4L effort, has a concept of a mediator element that can let participants to collaborate so they can share/interact over to remote repositories. The current version has a Wiki Mediator.&lt;/p&gt;</content>
+    <author>
+      <name>tabocaflik</name>
+      <uri>http://www.flickr.com/people/98393462@N00/</uri>
+      <flickr:nsid>98393462@N00</flickr:nsid>
+      <flickr:buddyicon>http://l.yimg.com/g/images/buddyicon.gif#98393462@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="http://farm5.staticflickr.com/4019/4423454894_0d53129d35_b.jpg" />
+    <category term="jet4learning" scheme="http://www.flickr.com/photos/tags/" />
+</entry>
+
+
+</feed>
