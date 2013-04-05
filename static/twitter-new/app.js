@@ -120,7 +120,7 @@ var app =  {
 
 				this.total--;
 			} 
-			setTimeout( function () { self.render() }, 1000);
+			setTimeout( function () { self.render() }, 4000);
 		} 
 	},
 
